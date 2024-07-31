@@ -1,0 +1,41 @@
+#dis_style{
+    float:left;
+    margin-top: 4%;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 1%;
+    padding-bottom: 5%;
+    box-shadow: -5px 5px 5px 2.5px grey;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    background-color: aliceblue;
+    border: 10px solid rgb(248, 135, 210);
+    width: 270px;
+    height: 270px;
+}
+#sortDropdown{
+    background-color: rgb(109, 133, 240);
+    width: 150px;
+    padding-top: 1%;
+    padding-left: 1%;
+    height: 70px;
+    margin-top: 2%;
+    margin-left: 6%;
+    box-shadow: -5px 5px 5px 2.5px grey;
+    font-family: 'Times New Roman', Times, serif;
+}
+#sortprice{
+    background-color: rgb(231, 193, 147);
+    height: 25px;
+    width: 130px;
+    font-size: 18px;
+   
+    margin-top: 10px;
+   
+    font-family: 'Times New Roman', Times, serif;
+}
+.sortprice1{
+    background-color: rgb(228, 232, 235);
+    font-family: 'Times New Roman', Times, serif;
+}

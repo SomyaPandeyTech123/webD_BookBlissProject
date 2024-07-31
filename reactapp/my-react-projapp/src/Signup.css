@@ -1,0 +1,38 @@
+
+  .container {
+    margin-top: 2%;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    margin-left: 30%;
+    color: aliceblue;
+    background-image: url("D:\finalproj\reactapp\my-react-projapp\public\images\books1.avif");
+  }
+  #sign_form{
+    margin-top: 5%;
+    margin-left: 45%;
+    color: black;
+    font-size: 40px;
+  }
+  .card {
+    width: 400px; /* Adjust the width as needed */
+  } 
+  .labels{
+color: white;
+  }
+  .labels::after {
+    content: '*';
+    color: red; 
+  }
+  .error-message{
+    color: aliceblue;
+    padding-left: 20px;
+}
+#signbtn{
+  background-color: rgb(109, 53, 231);
+  color: black;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+}
